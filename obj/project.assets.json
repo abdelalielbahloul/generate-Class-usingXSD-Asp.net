@@ -1182,23 +1182,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\abdelali\\.nuget\\packages\\": {},
+    "C:\\Users\\Poste2\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\DotNet-projects\\generateClassFromXSD\\generateClassFromXSD.csproj",
+      "projectUniqueName": "C:\\Users\\Poste2\\Desktop\\ali\\generate-Class-usingXSD-Asp.net\\generateClassFromXSD.csproj",
       "projectName": "generateClassFromXSD",
-      "projectPath": "D:\\projects\\DotNet-projects\\generateClassFromXSD\\generateClassFromXSD.csproj",
-      "packagesPath": "C:\\Users\\abdelali\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\DotNet-projects\\generateClassFromXSD\\obj\\",
+      "projectPath": "C:\\Users\\Poste2\\Desktop\\ali\\generate-Class-usingXSD-Asp.net\\generateClassFromXSD.csproj",
+      "packagesPath": "C:\\Users\\Poste2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Poste2\\Desktop\\ali\\generate-Class-usingXSD-Asp.net\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\abdelali\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Poste2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1259,7 +1259,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
